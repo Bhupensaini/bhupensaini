@@ -1,4 +1,4 @@
-### Bhupensaini.github.io
+Bhupensaini.github.io
 
 🔭 I’m currently working on Server-side scripting
 
